@@ -1,2 +1,2 @@
 
-Team 2 will create documentation detailing how to use Libre Office products to complete common course requirements for a first-year college student.
+Team 2 will create documentation detailing how a first-year college student can use LibreOffice's word processing application called Writer to complete common course requirements.
