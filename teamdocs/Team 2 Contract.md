@@ -10,10 +10,10 @@ To demonstrate to the instructor that we can effectively work together to delive
 Measurable team goals
  
 Deliver the components required for the assignment: 
-Specification memo
-Two progress reports
-Document outline
-Final product (instruction manual)
+Specification memo  
+Two progress reports  
+Document outline  
+Final product (instruction manual)  
  
 Meet the specifications required for successful project completion:
 Commit all required documents to GitHub team repository
@@ -27,18 +27,19 @@ Be available and communicate often with other team members.
 Check team Slack and olemiss.go account AT LEAST once in the AM and once in the PM to keep up with team progress and any issues that come up.
 Communicate any problems, questions, and/or possible missed deadlines to team members as soon as possible.
  
-Personal goals
-Madison: learn more about writing in markdown language and leave the project confident in my new skills
-Kristin: learn more about documentation and markdown writing; expand my research skills
-Keyere: each give 100 percent, have fun with the project, and feel comfortable with our final product
-Elizabeth: learn to write documentation in markdown language
+Personal goals  
+Madison: learn more about writing in markdown language and leave the project confident in my new skills  
+Kristin: learn more about documentation and markdown writing; expand my research skills  
+Keyere: each give 100 percent, have fun with the project, and feel comfortable with our final product  
+Elizabeth: learn to write documentation in markdown language  
  
-Individual commitment
+Individual commitment  
 Madison, Kristin, Keyere, and Elizabeth are fully committed to working together at full capacity to produce a high-quality project and earn a grade that reflects that quality.
  
-Personal commitments 
-Madison and Keyere are taking other courses and working. Kristin works full-time in Memphis and drives to Oxford 4 days a week for another class while taking care of a newborn baby. 
-Elizabeth works from home while caring for a toddler and an older child.
+Personal commitments  
+Madison and Keyere are taking other courses and working. 
+Kristin works full-time in Memphis and drives to Oxford 4 days a week for another class while taking care of a newborn baby. 
+Elizabeth works from home while caring for a toddler and an older child.  
  
 Conflict Resolution
 We will discuss the issue until everyone comes to an agreement on how to resolve it. If we are unable to get in touch with a team member to discuss the issue, those team members who are part of the discussion will make a decision together about how to resolve it. If we agree that we cannot resolve the issue among ourselves, we will contact the instructor for advice.
