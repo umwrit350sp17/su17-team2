@@ -9,17 +9,17 @@ To demonstrate to the instructor that we can effectively work together to delive
  
 Measurable team goals
  
-Deliver the components required for the assignment: 
+Deliver the components required for the assignment:  
 Specification memo  
 Two progress reports  
 Document outline  
 Final product (instruction manual)  
  
-Meet the specifications required for successful project completion:
-Commit all required documents to GitHub team repository
-Compose documentation (instruction manual) in Markdown (.md) format
-Compose documentation (instruction manual) that is a minimum of 1500 words
-Include screenshots that are cropped and annotated where applicable in the documentation (instruction manual)
+Meet the specifications required for successful project completion:  
+Commit all required documents to GitHub team repository  
+Compose documentation (instruction manual) in Markdown (.md) format  
+Compose documentation (instruction manual) that is a minimum of 1500 words  
+Include screenshots that are cropped and annotated where applicable in the documentation (instruction manual)  
  
 Meet deadlines provided by the instructor 
  
