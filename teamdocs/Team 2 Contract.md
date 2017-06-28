@@ -23,8 +23,8 @@ Include screenshots that are cropped and annotated where applicable in the docum
  
 Meet deadlines provided by the instructor 
  
-Be available and communicate often with other team members.
-Check team Slack and olemiss.go account AT LEAST once in the AM and once in the PM to keep up with team progress and any issues that come up.
+Be available and communicate often with other team members.  
+Check team Slack and olemiss.go account AT LEAST once in the AM and once in the PM to keep up with team progress and any issues that come up.  
 Communicate any problems, questions, and/or possible missed deadlines to team members as soon as possible.
  
 Personal goals  
