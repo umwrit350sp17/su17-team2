@@ -4,7 +4,7 @@ Team members: Madison, Kristin, Keyere, and Elizabeth
  
 Broad team goals
  
-To deliver a quality process documentation (instruction manual) describing how to accomplish a task using open-source software
+To deliver a quality process documentation (instruction manual) describing how to accomplish a task using open-source software  
 To demonstrate to the instructor that we can effectively work together to deliver quality process documentation (instruction manual) by the deadline (Sunday, July 2)
  
 Measurable team goals
