@@ -6,11 +6,11 @@ To the far right of the default toolbar are icons representing the four standard
 
 * **Align left** is the default. This is the text alignment you would normally use. Control + L will left align text.
 
-* **Center** may be used to center information on a title page, for example. To do this, click on the second icon in the row before you type the text needing to be centered. Or highlight the text to be centered, and click on the center icon. Commond + E will also center text.
+* **Center** may be needed to center information on a title page, for example. To do this, click on the second icon in the row before you type the text needing to be centered. Or highlight the text to be centered, and click on the center icon. Commond + E will also center text.
 
-* **Align right** may be used for a specific paper heading. The third icon in the row will take care of this. Control + R
+* **Align right** may be used for a specific paper heading. The third icon in the row will take care of this. Control + R will also align right.
 
-* **Justify** Control + J
+* **Justify** distributes the text evenly from left margin to right margin. Use the Control + J
 
 
 
