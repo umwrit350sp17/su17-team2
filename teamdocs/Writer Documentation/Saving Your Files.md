@@ -14,7 +14,7 @@ In this screenshot you can see all the possible options for types of file you ma
 
 [![Screen Shot 2017-07-01 at 8.42.09 PM.png](https://s19.postimg.org/8rq1q6pj7/Screen_Shot_2017-07-01_at_8.42.09_PM.png)](https://postimg.org/image/94hfwd7sv/)
 
-As you see, the default is LibreOffice's .odt file. Because you may be sharing your files or printing documents from a computer on campus, I recommend saving your papers and reports as .docx files. This will assure that they are compatible with other users and machines working with Microsoft (currently the most widely word processing program). Here is what that will look like:
+As you see, the default is LibreOffice's .odt file. Because you may be sharing your files or printing documents from a computer on campus, I recommend saving your papers and reports as .docx files. This will assure that they are compatible with other users and machines working with Microsoft (currently the most widely used word processing program). Here is what that will look like:
 
 [![Screen Shot 2017-07-01 at 8.42.54 PM.png](https://s19.postimg.org/rvjd6j2df/Screen_Shot_2017-07-01_at_8.42.54_PM.png)](https://postimg.org/image/5wcyjblj3/)
 
