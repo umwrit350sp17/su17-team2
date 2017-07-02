@@ -6,13 +6,15 @@ There will be separate folders for each section.
  
 I.     Introduction
  
-What is LibreOffice?
-What tools does it offer?
-What is LibreOffice Writer?
-Who should use it?
-What are its benefits?
-Why is it useful to Suzy?
- 
+What is LibreOffice?  
+What tools does it offer?  
+What is LibreOffice Writer?  
+Who should use it?  
+What are its benefits?  
+Why is it useful to Suzy?  
+
+II.    User guide (screenshots and visuals)  
+·      Getting Suzy started in Writer  
 III.   Features  
 ·      Letter  
 ·      Master thesis  
