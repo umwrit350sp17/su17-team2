@@ -7,6 +7,6 @@ To italicize, click on the slanted I in the toolbar or use Control + I. Highligh
 
 To underline, click on the large U in the tool bar or use Control + U. Highlight text to apply the style as you wish.
 
-To change font color, click on the drop down menu beside the T with a paintdrop beside it above a brick red line.
+To change font color, click on the drop down menu beside the icon of T with a paintdrop above a brick red line.
 
-To highlight text with a certain color, use the drop down menu beside the 
+To highlight text with a certain color, use the drop down menu beside the icon of a marker above a bright yellow line.
