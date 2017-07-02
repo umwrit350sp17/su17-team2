@@ -1,4 +1,5 @@
-Team 2 Progress Report 1 for Project #2			For the week ending June 18
+Team 2 Progress Report 1 for Project #2  
+For the week ending June 18
  
 Team members: Madison, Kristin, Keyere, and Elizabeth
  
