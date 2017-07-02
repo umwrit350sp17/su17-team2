@@ -1,5 +1,5 @@
 
-Introducing LibreOffice Writer
+### Introducing LibreOffice Writer
 
 LibreOffice is an open source suite of applications that are equivalent to those of Microsoft Office. It offers applications for word processing, spreadsheets, presentations, graphics and charts, databases, and formula editing. All of these applications are compatible with Microsoft products.
 
