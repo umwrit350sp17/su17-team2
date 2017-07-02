@@ -2,13 +2,17 @@
 LibreOffice Writer
  
  
-(Each section can link to a folder)  
-I.     State what the project  
-·      Introduce the project  
-·      State what it replaces- LibreOffice Writer is meant to replace Microsoft Word  
-II.   Show an example of what the project is used for  
-·      Provide an example of why this project is useful to the user  
-·      LibreOffice Writer is a free word processing application.  
+There will be separate folders for each section.
+ 
+I.     Introduction
+ 
+What is LibreOffice?
+What tools does it offer?
+What is LibreOffice Writer?
+Who should use it?
+What are its benefits?
+Why is it useful to Suzy?
+ 
 III.   Features  
 ·      Letter  
 ·      Master thesis  
