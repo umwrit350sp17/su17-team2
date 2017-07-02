@@ -1,3 +1,5 @@
+###Text alignment
+
 You may need use different types of text alignment at various times. Changing these settings is not difficult.
 
 To the far right of the default toolbar are icons representing the four standard text alignments for a page:
