@@ -10,7 +10,7 @@ To the far right of the default toolbar are icons representing the four standard
 
 * **Align right** may be used for a specific paper heading. The third icon in the row will take care of this. Control + R will also align right.
 
-* **Justify** distributes the text evenly from left margin to right margin. Use the Control + J
+* **Justify** distributes the text evenly from left margin to right margin. Control + J will also justify text.
 
 
 
