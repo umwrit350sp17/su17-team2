@@ -1,4 +1,6 @@
 
+### Modifying Font and Type Size
+
 Now that you know how to create a new document and save that document in Writer, let's look at the nuts and bolts of adapting your document's appearance to fit your needs.
 
 You may want to change the font before you begin. Click on the drop down menu and select your preferred font. Here, Arial is chosen.
