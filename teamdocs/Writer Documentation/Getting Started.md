@@ -16,3 +16,5 @@ Click on "Writer Document." A new document page will appear:
 Begin typing into your new document:
 
 [![Screen Shot 2017-07-01 at 10.00.46 PM.png](https://s19.postimg.org/e8dayb8ar/Screen_Shot_2017-07-01_at_10.00.46_PM.png)](https://postimg.org/image/c3sxx86nz/)
+
+You're on your way!
