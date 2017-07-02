@@ -25,3 +25,5 @@ You will get a warning message about the risks of saving your files in this form
 This is a standard warning provided before saving to other formats. The support for these formats is not flawless, however, most simple documents will translate to the other formats with no problem. It is safe to override the warning. 
 
 (If you want to turn off the warning, and/or set LO to save to .docx by default, you can do that in Tools / Options / load and save / general.)
+
+And that is how you save a document.
