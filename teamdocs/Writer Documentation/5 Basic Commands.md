@@ -10,3 +10,8 @@ To underline, click on the large U in the tool bar or use Control + U. Highlight
 To change font color, click on the drop down menu beside the icon of T with a paintdrop above a brick red line.
 
 To highlight text with a certain color, use the drop down menu beside the icon of a marker above a bright yellow line.
+
+Here is a user selecting text to highlight, using the drop down menu to select color of highlighting.
+
+
+[![Screen Shot 2017-07-02 at 11.40.47 AM.png](https://s19.postimg.org/rfzesxv43/Screen_Shot_2017-07-02_at_11.40.47_AM.png)](https://postimg.org/image/4eitn6vgf/)
