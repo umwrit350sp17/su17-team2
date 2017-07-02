@@ -1,4 +1,4 @@
-###Text alignment
+#####Text alignment
 
 You may need use different types of text alignment at various times. Changing these settings is not difficult.
 
