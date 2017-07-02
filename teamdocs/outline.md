@@ -14,12 +14,12 @@ What are its benefits?
 Why is it useful to Suzy?  
 
 II.    User guide (will feature screenshots)  
-·      Getting Suzy started in Writer  
+
+Getting Suzy started in Writer  
  
- VII.  FAQs (frequently asked questions)  
+III.  FAQs (frequently asked questions)  
  
-VIII.  How to get help  
-·      Troubleshooting section  
+IV.  How to get help/ troubleshooting section  
 ·      Provide a number or a place to go on the website if help is needed (Get Help section at the top of the home page)
  
 
