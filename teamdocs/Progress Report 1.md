@@ -4,10 +4,12 @@ Team members: Madison, Kristin, Keyere, and Elizabeth
  
  
 Accomplishments  
+
 We were able to come together as a team and complete our first major project, the team charter. Even though we are very busy in our lives outside of this course, we were able to connect and communicate. Slack and Google docs were very useful! We hope that we have laid the groundwork for communication to flow efficiently for the rest of the project.
  
  
 Challenges  
+
 We had a schedule conflict when it came to our first planned meeting via video chat. It is a challenge to work on a team of people who have never met face to face and who all have multiple other responsibilities.
  
  
