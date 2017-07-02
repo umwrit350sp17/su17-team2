@@ -19,4 +19,6 @@ Here is a user selecting text to highlight, using the drop down menu to select c
 
 [![Screen Shot 2017-07-02 at 11.40.47 AM.png](https://s19.postimg.org/rfzesxv43/Screen_Shot_2017-07-02_at_11.40.47_AM.png)](https://postimg.org/image/4eitn6vgf/)
 
-Here is a view after the highlight. Also notice in this screenshot how hovering the cursor over any of the icons in the toolbar will tell you what functions they are used for. Here, hovering over the large I indicates that icon is used to create italics.
+Here is a view after the highlight.
+
+[![Screen Shot 2017-07-02 at 11.47.41 AM.png](https://s19.postimg.org/on678wurn/Screen_Shot_2017-07-02_at_11.47.41_AM.png)](https://postimg.org/image/im8ibu85b/)
