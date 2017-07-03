@@ -1,6 +1,6 @@
 ### Text Alignment
 
-You may need use different types of text alignment at various times. Changing these settings is not difficult.
+You may need to use different types of text alignment at various times. Changing these settings is not difficult.
 
 There are two options for adjusting text alignment in your document.
 
