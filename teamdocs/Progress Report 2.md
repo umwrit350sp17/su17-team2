@@ -1,4 +1,4 @@
-### Team 2 Progress Report 2 for Project #2  
+### Progress Report 2 for Project #2  
 For the week ending July 2  
 
 This progress report is coming from Elizabeth. In the past few days communication with my team members has been spotty. I sent an email to my team members this morning requesting any input for this report to be sent by 5 PM and did not get a response from any of them.
