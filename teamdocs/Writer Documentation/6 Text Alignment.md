@@ -2,7 +2,13 @@
 
 You may need use different types of text alignment at various times. Changing these settings is not difficult.
 
-To the far right of the default toolbar are icons representing the four standard text alignments for a page.
+There are two options for adjusting text alignment in your document.
+
+1. To the far right of the default toolbar are icons for the four standard text alignments for a page.
+
+2. Or, you can click on the "properties" icon in the sidebar on the right and see the same choices under "Paragraph."
+
+[![Screen Shot 2017-07-02 at 10.40.53 PM.png](https://s19.postimg.org/s7aihor0j/Screen_Shot_2017-07-02_at_10.40.53_PM.png)](https://postimg.org/image/9rq1kacvz/)
 
 * **Align left** is the default. This is the text alignment you would normally use. Control + L will left align text.
 
