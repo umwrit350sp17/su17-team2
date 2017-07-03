@@ -12,6 +12,6 @@ After you click, this is what you will see:
 
 You can then change the size of your page, the orientation (portrait or landscape), and the margins.
 
-Default margins are set to 0.75 inch. For English papers requiring MLA formatting, you will need to change margins to 1 inch.
+Default margins are set to 0.75 inch. For English papers requiring MLA formatting, you will need to change margins to 1 inch. This is not difficult.
 
 Simply click on the drop-down menu next to Margins and select Normal 1 inch.
