@@ -15,4 +15,5 @@ Voilá!
 
 [![Screen Shot 2017-07-02 at 11.05.17 AM.png](https://s19.postimg.org/uex4okptv/Screen_Shot_2017-07-02_at_11.05.17_AM.png)](https://postimg.org/image/4w4sbk69r/)
 
-You can follow essentially the same steps to change the type size: click on the drop down menu (to the right of the font selection menu) to choose your type size. Similarly, if you need to change type size after you've begun the paper, select by highlighting the portions of your paper to which you want to apply the new type size first, and then select your desired type size.
+You can follow essentially the same steps to change the type size: click on the drop down menu (to the right of the font selection menu) to choose your type size.  
+Similarly, if you need to change type size after you've begun the paper, select by highlighting the portions of your paper to which you want to apply the new type size first, and then select your desired type size.
