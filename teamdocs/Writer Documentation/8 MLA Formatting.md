@@ -13,3 +13,6 @@
 5. Use Times New Roman as your font. This can also be changed from the Properties sidebar:
 
 [![Screen Shot 2017-07-02 at 10.33.25 PM.png](https://s19.postimg.org/nwvum3lxf/Screen_Shot_2017-07-02_at_10.33.25_PM.png)](https://postimg.org/image/w2dwk9a67/)
+
+6. Use 12-point type. This is the default type size for LO Writer.
+
