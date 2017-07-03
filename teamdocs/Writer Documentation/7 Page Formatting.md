@@ -13,8 +13,10 @@ After you click, this is what you will see:
 You can then change the size of your page, the orientation (portrait or landscape), and the margins.
 
 Default margins are set to 0.75 inch.  
-For English papers requiring MLA formatting, you will need to change margins to 1 inch. This is not difficult.
+For English papers requiring MLA formatting, you will need to change margins to 1 inch. This is not difficult:
 
-Simply click on the drop-down menu next to Margins and select Normal 1 inch.
+simply click on the drop-down menu next to Margins and select Normal 1 inch.
 
-As you can see from the screenshot above, you can make other stylistic changes to your document, such as changing the number style, formatting columns, or adding headers and/or footers.
+As you can see from the screenshot above, you can also make other stylistic changes to your document here, such as changing the number style, formatting columns, or adding headers and/or footers.
+
+When you are satisfied with your changes, click on a small x in the upper right of the box to "Close Sidebar Deck."
