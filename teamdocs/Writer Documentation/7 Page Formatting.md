@@ -3,7 +3,7 @@
 
 To modify the size, orientation, or margins of your pages:
 
-* find the sidebar settings at the right of your page. 
+* Find the sidebar settings at the right of your page. 
 * Click on the one that looks like a page that is called "Page" when your cursor hovers over it. 
 
 After you click, this is what you will see:
