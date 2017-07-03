@@ -20,4 +20,4 @@ Once you assign your various headings, you can use them to set up a Table of Con
 To execute, click on "Insert" in toolbar at top.
 Select "Table of Contents and Index" from drop-down menu.
 
-[a![Screen Shot 2017-07-02 at 11.03.03 PM.png](https://s19.postimg.org/bxkcesgcj/Screen_Shot_2017-07-02_at_11.03.03_PM.png)](https://postimg.org/image/9g8l7iwfz/)
+[![Screen Shot 2017-07-02 at 11.17.21 PM.png](https://s19.postimg.org/6d7v45hhf/Screen_Shot_2017-07-02_at_11.17.21_PM.png)](https://postimg.org/image/u478m9hof/)
