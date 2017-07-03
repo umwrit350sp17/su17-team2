@@ -20,5 +20,5 @@ After we got feedback from the instructor on the profile and outline and Kristin
 
 **Questions**
 
-How could I have better motivated my team members to contribute to our project?
+How could I have better motivated my team members to contribute to our project?  
 How could we have formulated a more effective team contract?
