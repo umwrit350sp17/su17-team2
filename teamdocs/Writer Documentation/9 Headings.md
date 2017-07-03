@@ -9,6 +9,8 @@ This will enable you to create various headings within your paper or book.
 1. Highlight the main title and select "Title" from the drop-down menu. You can do the same for the subtitle.
 
 
-2. For a main heading or chapter title, select 
+2. For a main heading or chapter title, select "Heading 1." Subheadings would then be assigned "Heading 2."
+
+Here is how LO Writer automatically formats these various headings:
 
 [![Screen Shot 2017-07-02 at 11.11.17 PM.png](https://s19.postimg.org/ktv4iq6yr/Screen_Shot_2017-07-02_at_11.11.17_PM.png)](https://postimg.org/image/v3xjhywu7/)
