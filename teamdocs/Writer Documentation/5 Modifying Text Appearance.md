@@ -22,3 +22,7 @@ Here is a user selecting text to highlight, using the drop down menu to select c
 Here is a view after the highlight.
 
 [![Screen Shot 2017-07-02 at 11.47.41 AM.png](https://s19.postimg.org/on678wurn/Screen_Shot_2017-07-02_at_11.47.41_AM.png)](https://postimg.org/image/im8ibu85b/)
+
+All of these modifications can also be executed by clicking on the "Properties" icon in the sidebar beside the right margin of the page:
+
+[![Screen Shot 2017-07-02 at 10.40.53 PM.png](https://s19.postimg.org/s7aihor0j/Screen_Shot_2017-07-02_at_10.40.53_PM.png)](https://postimg.org/image/9rq1kacvz/)
