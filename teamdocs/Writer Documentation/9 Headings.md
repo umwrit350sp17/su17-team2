@@ -18,6 +18,6 @@ Here is how LO Writer automatically formats these various headings:
 Once you assign your various headings, you can use them to set up a Table of Contents for your paper or book that updates page numbers automatically.
 
 To execute, click on "Insert" in toolbar at top.
-Select "Table of Contents and Index" from drop-down menu.
+Select "Table of Contents and Index" from drop-down menu, and furthermore, "Table of Contents, Index or Bibliography."
 
 [![Screen Shot 2017-07-02 at 11.18.01 PM.png](https://s19.postimg.org/nrwoq6403/Screen_Shot_2017-07-02_at_11.18.01_PM.png)](https://postimg.org/image/f9n8ltxhb/)
