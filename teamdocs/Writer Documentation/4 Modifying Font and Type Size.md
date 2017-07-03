@@ -17,3 +17,7 @@ Voilá!
 
 You can follow essentially the same steps to change the type size: click on the drop down menu (to the right of the font selection menu) to choose your type size.  
 Similarly, if you need to change type size after you've begun the paper, select by highlighting the portions of your paper to which you want to apply the new type size first, and then select your desired type size.
+
+You can also modify the font and type size by clicking on the "Properties" icon on the sidebar beside the right margin of the page.
+
+[![Screen Shot 2017-07-02 at 10.40.53 PM.png](https://s19.postimg.org/s7aihor0j/Screen_Shot_2017-07-02_at_10.40.53_PM.png)](https://postimg.org/image/9rq1kacvz/)
