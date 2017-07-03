@@ -5,7 +5,7 @@ Now that you know how to create a new document and save that document in Writer,
 
 You may want to change the font before you begin. Click on the drop down menu and select your preferred font. Here, Arial is chosen.
 
-[![Screen Shot 2017-07-02 at 10.53.57 AM.png](https://s19.postimg.org/6vle2z0lf/Screen_Shot_2017-07-02_at_10.53.57_AM.png)](https://postimg.org/image/t7j6wczpb/)
+[![Screen Shot 2017-07-02 at 9.56.34 PM.png](https://s19.postimg.org/m2j04cywz/Screen_Shot_2017-07-02_at_9.56.34_PM.png)](https://postimg.org/image/emjqikb7j/)
 
 If you decide to change the font after you have begun writing, use the "Select all" function by pressing Control + A to highlight all text, and then follow the same procedure for changing font.
 
